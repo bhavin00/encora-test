@@ -1,0 +1,4 @@
+export const notesConstants = {
+    DELETE_REQUEST: 'NOTES_DELETE_REQUEST',
+    ADD_EDIT_REQUEST: 'NOTES_ADD_EDIT_REQUEST'
+};
